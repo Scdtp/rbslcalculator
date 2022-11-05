@@ -92,21 +92,16 @@ p{
 /*Extra small devices (phone, 600px and down*/
 @media only screen and (max-width: 600px){
     form{
+        height : 65%;
         width: 50%;
     }
 
-    input{
-        margin:0%;
-        padding: 0%;
-    }
+    
 }
 
 
 @media only screen and (max-width: 768px){
-    input{
-        margin:0%;
-        padding: 0%;
-    }
+   
 
 }
 
